@@ -1,7 +1,1 @@
-print("favorite movies list")
-print("number 15 burgerking...")
-print("number 5- godfather trilogy")
-print("number 4-starwars series")
-print("NUmber 3- The Shining")
-print("NuMbEr 2- F13 series")
-print("eivom ogel eht -1rebmuN")
+print ("a vacation is when you take a trip to " + adjective1 + "place with your " + adjective2 + "family. Usually you go to some place that is near a/an" + noun1 + "or up on a/an" + + "A good vacation placeis one where you can ride" + + "or play"
