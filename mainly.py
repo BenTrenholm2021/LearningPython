@@ -1,1 +1,6 @@
-print ("a vacation is when you take a trip to " + adjective1 + "place with your " + adjective2 + "family. Usually you go to some place that is near a/an" + noun1 + "or up on a/an" + + "A good vacation placeis one where you can ride" + + "or play"
+def times10(number):
+    print(number * 10)
+
+return number
+
+times10(7)
