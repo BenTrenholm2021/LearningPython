@@ -1,6 +1,10 @@
-def times10(number):
-    print(number * 10)
+light = input("stoplight color?\n")
 
-return number
+if light == "green":
+    print("Aight you can go sir")
 
-times10(7)
+if light == "yellow":
+    print("EITHER GO NOW or STOP QUICKLY")
+
+if light == "red":
+    print("Aight, stop buddy :D")
